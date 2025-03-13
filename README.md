@@ -3,9 +3,10 @@ NvidiaRTX-driver-install
 
 Starting Drivers for NvidiaRTX Remote Workstation
 
-https://www.youtube.com/watch?v=o65MJWrKNrs
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o65MJWrKNrs" frameborder="0" allowfullscreen></iframe>
 
-https://www.youtube.com/watch?v=C6wPIwv6ReY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C6wPIwv6ReY" frameborder="0" allowfullscreen></iframe>
+
 
 
 sunshine-windows-installer.exe.zip
